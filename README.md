@@ -1,2 +1,2 @@
 # deep-learning-challenge
-Repo for data bootcamp module 21 assignment
+Used Python to create machine learning binary classifier model to help a firm select applicants with the highest changes of success in their ventures.
